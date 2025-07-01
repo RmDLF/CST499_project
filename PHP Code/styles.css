@@ -1,0 +1,32 @@
+/* Background Color */
+body {
+    background-color: #F1F1F1;  /* Light gray for subtle contrast */
+    color: #0C234B;  /* Arizona Blue for text */
+    font-family: Arial, sans-serif;
+}
+
+/* Change Jumbotron Background */
+.jumbotron {
+    background-color: #AB0520; /* Cardinal Red */
+    color: white;
+    padding: 50px 25px;
+    border-radius: 1px;
+}
+
+/* Navbar Color */
+.navbar-inverse {
+    background-color: #0C234B; /* Arizona Blue */
+    border-color: #AB0520;     /* Cardinal Red border */
+}
+
+/* Navbar text color */
+.navbar-inverse .navbar-nav > li > a {
+    color: #FFFFFF;  /* White for navbar links */
+}
+
+/* Footer background */
+.navbar-fixed-bottom {
+    background-color: #0C234B;  /* Arizona Blue */
+    color: white;
+}
+
